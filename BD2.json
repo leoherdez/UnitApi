@@ -1,0 +1,21 @@
+[
+    {
+        "nombre": "Filosofía de los peones: ",
+        "Info":"Aislamiento en el juego de ajedrez.",
+        "imagen": "Imagenes/Articulo1.png"
+        
+    },
+    {
+        "nombre": "El enigma de Lasker: ",
+        "Info":"Errores y genialidad combinados.",
+        "imagen": "Imagenes/Articulo2.png"
+
+    },
+
+    {
+        "nombre": "Mijaíl Chigorin: ",
+        "Info":"Un genio creativo hasta el final.",
+        "imagen": "Imagenes/Articulo3"
+
+    }
+]
