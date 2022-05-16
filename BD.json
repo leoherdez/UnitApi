@@ -1,0 +1,40 @@
+[
+    {
+        "nombre": "Magnus Carlsen: ",
+        "Info":"Gana su quinto título mundial.",
+        "imagen": "Imagenes/Noticia Destacada"
+
+    },
+    {
+        "nombre": "Candidatos 2022: ",
+        "Info":"¿Qué dicen los números?",
+        "imagen": "Imagenes/Noticia mas reciente.png"
+
+    },
+    {
+        "nombre": "Rapport y Radjabov: ",
+        "Info":"incluidos en el sorprendente Norway Chess 2022.",
+        "imagen": "Imagenes/Noticia Destacada3"
+
+    },
+    {
+        "nombre": "Filosofía de los peones: ",
+        "Info":"Aislamiento en el juego de ajedrez.",
+        "imagen": "Imagenes/Articulo1.png"
+        
+    },
+    {
+        "nombre": "El enigma de Lasker: ",
+        "Info":"Errores y genialidad combinados.",
+        "imagen": "Imagenes/Articulo2.png"
+
+    },
+
+    {
+        "nombre": "Mijaíl Chigorin: ",
+        "Info":"Un genio creativo hasta el final.",
+        "imagen": "Imagenes/Articulo3"
+
+    }
+
+]
